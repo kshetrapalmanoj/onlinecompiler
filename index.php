@@ -42,8 +42,6 @@
    <div class="collapse navbar-collapse navbar-menubuilder">
     <ul class="nav navbar-nav">
       <li class="space"><a href="compiler.php"><i class="fa fa-code ispace"></i>Compiler</a></li>
-      <li class="space"><a href="archive.php"><i class="fa fa-archive ispace"></i>Problem Archive</a></li>
-      <li class="space"><a href="contest.php"><i class="fa fa-cogs ispace"></i>Contests</a></li>
       <li class="space"><a href="#"><i class="fa fa-check-square ispace"></i>Debug</a></li>
      
       
@@ -84,7 +82,7 @@
 <option value="cpp">C++</option>
 <option value="cpp11">C++11</option>
 <option value="java">Java</option>
-<!--<option value="python2.7">Python2</option>
+<--<option value="python2.7">Python2</option>
 <option value="python3.2">Python2</option>-->
   
 
@@ -122,8 +120,6 @@
 
 <div class="fm">
 
-<b>Beta Version-2016</b><br>
-<b>Developed By <a href="https://fb.com/ashadullah.shawon">Ashadullah Shawon</a></b>
 
 </div>
 </div>
